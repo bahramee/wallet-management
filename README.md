@@ -1,4 +1,3 @@
-div align="center">
   <p>
     <a href="">
         <img width="200" src="" alt="" />
