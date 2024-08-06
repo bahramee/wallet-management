@@ -54,7 +54,7 @@ cd apps/api
 npm run test
 ```
 
-Please note that if your MongoDB is running on port 27017, you should first stop your local MongoDB and then run 
+Please note that if your local MongoDB is running on port 27017, you should first stop your local MongoDB and then run 
 ```
 docker compose up
 ```
