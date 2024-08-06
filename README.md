@@ -47,7 +47,7 @@ Once the setup is complete, you can access:
 
 ### Running Tests 🧪
 
-To ensure your application is working as expected, run the tests using:
+To ensure the application is working as expected, run the tests using:
 
 ```bash
 cd apps/api
