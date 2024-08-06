@@ -4,7 +4,7 @@ import { ObjectId } from 'mongoose';
 
 export class DepositWalletDto {
   @ApiProperty({ default: 1 })
-  @IsEmail()
+  @IsNotEmpty()
   userId: number;
 
   @ApiProperty({ default: 1000 })
