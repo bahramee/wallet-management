@@ -9,7 +9,6 @@ import { Model } from 'mongoose';
 import { DepositWalletDto } from './dto/deposit-wallet.dto';
 import { Wallet } from './schemas/wallet.schema';
 import { v4 as uuidv4 } from 'uuid';
-import { GetWalletDto } from './dto/get-wallet.dto';
 import { Transaction } from './schemas/transaction.schema';
 import { DailyTotal } from './schemas/dailytotal.schema';
 import { Cron, CronExpression } from '@nestjs/schedule';

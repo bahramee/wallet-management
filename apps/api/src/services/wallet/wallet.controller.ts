@@ -2,7 +2,6 @@ import { Controller } from '@nestjs/common';
 import { MessagePattern, Payload } from '@nestjs/microservices';
 import { DepositWalletDto } from './dto/deposit-wallet.dto';
 import { WalletService } from './wallet.service';
-import { GetWalletDto } from './dto/get-wallet.dto';
 
 @Controller()
 export class WalletController {
