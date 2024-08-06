@@ -37,8 +37,8 @@ Welcome to the Wallet Management System! This project aims to provide a robust a
 Clone the project and set up the environment:
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone https://github.com/bahramee/wallet-management.git
+cd wallet-management
 docker compose up
 ```
 
